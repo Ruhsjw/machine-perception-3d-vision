@@ -1,0 +1,16 @@
+numpy
+scipy
+matplotlib
+pillow
+imageio
+tqdm
+opencv-python
+torch
+gdown
+open3d
+pyrender
+trimesh
+transforms3d
+plotly
+ipywidgets
+jupyter
